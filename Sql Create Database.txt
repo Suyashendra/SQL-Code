@@ -1,0 +1,6 @@
+Creating Database EmployeeDB
+
+Query - 
+
+CREATE DATABASE EmployeeDB; 
+
