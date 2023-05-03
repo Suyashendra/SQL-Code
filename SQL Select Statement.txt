@@ -1,0 +1,12 @@
+SELECT Statement
+The SQL SELECT statement selects data from one or more tables.
+
+1. Select all the columns of the table.
+
+Query: 
+SELECT * FROM table_name;
+
+2. Select specific columns 
+
+Query:
+SELECT col1, col2 FROM table_name;

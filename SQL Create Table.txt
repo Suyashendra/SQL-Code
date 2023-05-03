@@ -1,4 +1,4 @@
-Creaing Tables 
+Creating Tables 
 
 Table 1 Query:
 CREATE TABLE EmployeeDemographics
