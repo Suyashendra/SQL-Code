@@ -12,7 +12,7 @@ order by Salary desc
 limit 1;
 
 -- Use Case 2
--- Calculate avgerage salary of Salesman
+-- Calculate average salary of Salesman
 
 select jobtitle, round(avg(salary)) as "Avg Salary"
 from employeedemographics 
